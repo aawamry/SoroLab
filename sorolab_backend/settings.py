@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-cz+da*k0&n-y6j6*0x%0^oy+ct+9k-s=iziqdz=34rv))mz4%v
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["sorolab.ew.r.appspot.com", "localhost", "127.0.0.1"]
 
 
 # Application definition
